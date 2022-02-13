@@ -1,1 +1,3 @@
-# Homework2_VBA_Challenge
+# Stock Analysis with VBA
+## Overview of Project
+### Purpose
