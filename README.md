@@ -8,5 +8,5 @@ When looking at the stock results from 2017 compared to 2018, we can see that 20
 ### Original Run Times vs. Refactored Run Times
 Source: Original_2017_run_time.png
 ![image](https://user-images.githubusercontent.com/97328622/153737718-f2a11b4b-d99d-4af9-b7f8-5dc588170e3f.png)
-Source: Original_2018_run_time.png
 ![image](https://user-images.githubusercontent.com/97328622/153737753-d426f30e-f230-42c7-8845-fef66aa9a38f.png)
+Source: Original_2018_run_time.png
