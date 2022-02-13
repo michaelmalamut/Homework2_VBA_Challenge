@@ -11,7 +11,7 @@ When looking at the stock results from 2017 compared to 2018, we can see that 20
 
 First Photo: (VBA_2017_data_results.png), Second Photo: (VBA_2018_data_results.png)
 
-### Original Run Times vs. Refactored Run Times
+## Original Run Times vs. Refactored Run Times
 Original run time of 0.765625 seconds for 2017 and 0.7734375 seconds for 2018.
 
 ![image](https://user-images.githubusercontent.com/97328622/153737718-f2a11b4b-d99d-4af9-b7f8-5dc588170e3f.png)
