@@ -5,6 +5,10 @@ Steve was impressed with the first workbook that was created that allowed him to
 ## Results
 ### 2017 and 2018 Stock Analysis: Comparison
 When looking at the stock results from 2017 compared to 2018, we can see that 2017 had a much better return overall than 2018. In 2017, 11 out of the 12 stocks had a positive return, with DQ having a return as high as 199.4%. Meanwhile, when we take a look at the returns in 2018, only 2 out of the 12 had a positive return where the ENPH and RUN stock had a 81.9% return for ENPH and a 84.0% return for RUN. So overall, if you were to want to invest in a stock in 2018, you would have been better off buying in on RUN. In 2017, you would have still been getting a better return on ENPH with a 129.5% return. In conclusion, 2017 was a better year on returns than what 2018 produced.
+
+![image](https://user-images.githubusercontent.com/97328622/153737959-95c545d2-c5b3-461d-8613-92e549021160.png)
+
+
 ### Original Run Times vs. Refactored Run Times
 Original run time of 0.765625 seconds for 2017 and 0.7734375 seconds for 2018
 
